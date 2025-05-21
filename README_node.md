@@ -19,12 +19,12 @@ Este repositório fornece uma base sólida para desenvolvimento backend em Node.
 
 ## Estrutura de Pastas
 
-src/
+```src/
 ├── controllers/    # Entrada da API - Express Handlers
 ├── services/       # Regras de negócio - Aplicação
 ├── repositories/   # Acesso a dados - Interface com banco ou APIs
 ├── models/         # Entidades, DTOs e tipagens (Domain Models)
-└── utils/          # Funções auxiliares e helpers
+└── utils/          # Funções auxiliares e helpers```
 
 ## Padrões Utilizados
 
